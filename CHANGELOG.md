@@ -8,5 +8,5 @@ Tous les changements important seront historisé au sein de ce fichier.
 ## [0.0.1] - 2019-01-27
 ### Ajout
 - Les fichiers générés via la commande Vagrant init.
-- Ajout d'un fichier README et CHANGELOG.
-- Modification du fichier *Vagrantfile* pour indiquer la configuration de la machine et ajouter l'installation de certaine librairies.
+- Ecriture des fichier README et CHANGELOG
+- Ajout des fichiers VagrantFile et bootstrap.sh qui permette d'automatiser la creation de la VM
